@@ -1,1 +1,1 @@
-# Advanced-House-Price-Prediction-
+### EDA Template for ML projects
